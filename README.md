@@ -2,4 +2,4 @@
 
 ## Estudiante: Dan Judzik
 
-![mi foto](foto.jpeg)
+![mi foto](Foto.jpeg)
